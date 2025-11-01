@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- I'm Jean-Louis Alexis GOUEGUY, a passionate Full-Stack Web & Mobile Developer who loves turning ideas into captivating web and mobile applications. With expertise in React, PHP/Laravel, Inertia.js, React Native, Tailwind, and Bootstrap, I strive to create innovative solutions that push boundaries.
 - 🔭 I’m currently working on my personal ecommerce platform to start my business
 - 🌱 I’m currently learning Typescript and Design Patterns in Javascript
 - 🌱 I Love challenges and I learn something new every single day ...
