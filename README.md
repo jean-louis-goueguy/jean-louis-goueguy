@@ -26,7 +26,6 @@ Hey there! 👋 I'm Jean-Louis Alexis GOUEGUY, a passionate Full-Stack Web & Mob
 
 ### 📫 Want to connect?
 Reach out to me on:
-- [GitHub](https://github.com/jean-louis-goueguy)
 - [LinkedIn](https://www.linkedin.com/in/jean-louis-goueguy)
 - [Portfolio](https://jean-louis-goueguy.github.io/portfolio)
 
