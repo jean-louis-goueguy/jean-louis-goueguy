@@ -1,11 +1,16 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my personal ecommerce platform to start my business
+- 🌱 I’m currently learning Typescript and Design Patterns in Javascript
+- 🌱 I Love challenges and I learn something new every single day ...
+- 👯 I Focus on the Backend (60 %) and Frontend (40 %), Tailwind css, React JS, Laravel & Laravel Inertia And Redux Toolkit
+- 👯 I’m looking for new opportunities, collaborate on Open source and Big projects
 <!--
 **jean-louis-goueguy/jean-louis-goueguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
