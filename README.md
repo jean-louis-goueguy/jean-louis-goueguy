@@ -18,8 +18,9 @@ Hey there! 👋 I'm Jean-Louis Alexis GOUEGUY, a passionate Full-Stack Web & Mob
 - **Languages:** JavaScript, HTML, CSS, TypeScript
 
 ### 🔥 Featured Projects
-- [Restaurant Reservation Project](https://github.com/jean-louis-goueguy/Restaurant-Reservation-Project)
-- [Simple Java Maven App](https://github.com/jean-louis-goueguy/simple-java-maven-app)
+- [SAGE CONSEIL FISCAL](https://sageconseilfiscal.com/)
+- [SIVAGE](https://sifage.netlify.app/)
+- [JIGHI](https://jighi.com/fr)
 
 ### 🌱 Biographics
 - **GitHub Repositories:** 110
