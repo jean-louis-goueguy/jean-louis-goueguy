@@ -24,23 +24,10 @@ Hey there! 👋 I'm Jean-Louis Alexis GOUEGUY, a passionate Full-Stack Web & Mob
 - [SIVAGE](https://sifage.netlify.app/)
 - [JIGHI](https://jighi.com/fr)
 
-### 🌱 Biographics
-- **GitHub Repositories:** 110
-- **Commits:** 9
-- **PRs:** 1
-- **Followers:** 1
-
-### 👨🏻‍💻 About Me
-I enjoy building dynamic and user-friendly applications that cater to the modern digital era. My diverse skill set allows me to contribute across various layers of software development, from frontend design to backend logic, and even mobile app deployment.
-
 ### 📫 Want to connect?
 Reach out to me on:
 - [GitHub](https://github.com/jean-louis-goueguy)
 - [LinkedIn](https://www.linkedin.com/in/jean-louis-goueguy)
 - [Portfolio](https://jean-louis-goueguy.github.io/portfolio)
 
-### 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jean-louis-goueguy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jean-louis-goueguy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jean-louis-goueguy)](https://github.com/jean-louis-goueguy)
 
