@@ -10,6 +10,8 @@ Hey there! 👋 I'm Jean-Louis Alexis GOUEGUY, a passionate Full-Stack Web & Mob
 - 🌱 I Love challenges and I learn something new every single day ...
 - 👯 I Focus on the Backend (60 %) and Frontend (40 %), Tailwind css, React JS, Laravel & Laravel Inertia And Redux Toolkit
 - 👯 I’m looking for new opportunities, collaborate on Open source and Big projects
+- 📫 You can contact directly via: +225 07 16 23 96
+- 📫 You can send to me an email on jlagoueguy@gmail.com
   
 ### 🛠️ Skills
 - **Frontend:** React, Tailwind, Bootstrap
